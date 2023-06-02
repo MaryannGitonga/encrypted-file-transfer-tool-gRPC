@@ -1,4 +1,4 @@
-# encrypted-file-transfer-tool-gRPC
+# Encrypted File Transfer Tool using gRPC
 A file transfer tool using gRPC
 
 ## Architecture
